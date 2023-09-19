@@ -18,9 +18,10 @@ Na busca por conhecer melhor o nosso Brasil, esta tabela é uma ferramenta valio
 
 ## Técnicas e tecnologias utilizadas 
 - ``CSS3``
-- ``HTML 5``
+- ``HTML5``
 - ``Github``
 - ``VsCode``
+- ``Git``
   
 ## Fontes Consultadas 
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
